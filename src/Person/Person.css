@@ -5,3 +5,26 @@
     text-align: center;
     margin-left: 500px;
 }
+.Person{
+    width: 40%;
+    margin: 16px auto;
+    border: 1px solid #eeeeee;
+    box-shadow: 0 2px 3px #cccccc;
+    padding: 16px;
+    text-align: center;
+}
+
+.person_btnStyle{
+    background-color: lightsalmon;
+    color: White ;
+    font:  inherit ;
+    border:  1px solid red ;
+    padding:  8px ;
+    cursor:  pointer ;
+    margin-right:  5px ;
+    margin-top: 15px;    
+  }
+  .person_btnStyle:hover{
+      background-color: indianred;
+      color: black;
+  }

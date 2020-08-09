@@ -11,3 +11,28 @@
   color: violet;
   font-weight: bold;
 }
+.button-allign{
+ margin-right: 10px;
+}
+
+.App-rendering-content{
+  text-align: center;
+  color: rgb(144, 184, 70);
+  font-weight: bold;
+}
+.hr-tag{
+  margin-bottom: 12px;
+  width: 40%;
+  
+}
+.red{
+  color: red;
+}
+.larger{
+  font-size: larger;
+}
+.green{
+  color: green;
+  font-weight: bold;
+  font-size: 25px;
+}
